@@ -4,3 +4,6 @@ Latihan GIT
 Dengan memasukan file dalam bentuk .txt
 
 Created By    : Dani Firdaus
+Alamat	      : Cijantung
+Jurusan       : Teknik Informatika
+Jenis Kelamin : Pria
