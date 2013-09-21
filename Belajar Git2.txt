@@ -7,3 +7,4 @@ Created By    : Dani Firdaus
 Alamat	      : Cijantung
 Jurusan       : Teknik Informatika
 Jenis Kelamin : Pria
+Hobby		  : Ngoprek
