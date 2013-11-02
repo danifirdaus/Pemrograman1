@@ -2,7 +2,7 @@
 //Perintah keempat - contoh 04
 //E:\Dropbox\kuliah\smester4\Pemrograman 1\sesi01>javac -d bin src/DemoKalender.java
 //E:\Dropbox\kuliah\smester4\Pemrograman 1\sesi01>java -cp bin Latihan01.sesi1.bin.DemoKalender
-//E:\Dropbox\kuliah\smester4\Pemrograman 1\sesi01>git add "src/Demokalender.java"
+//E:\Dropbox\kuliah\smester4\Pemrograman 1\sesi01>git add "src/DemoKalender.java"
 //E:\Dropbox\kuliah\smester4\Pemrograman 1\sesi01>git commit -m "commit01"
 //E:\Dropbox\kuliah\smester4\Pemrograman 1\sesi01>git push origin1 master
 
